@@ -1,3 +1,11 @@
+@import url('fonts/fonts.css');
+@import url('reset.css');
+
+/* General Demo Style */
+body{
+	font-family:'Myriad Pro', Arial, sans-serif;
+	font-size: 15px;
+}
 
 p{
     font-size: 18px;
